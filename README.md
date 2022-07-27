@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Maksim and i am Front-end Developer
 
-<!--
-**LInus1408/LInus1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### my skills
+- HTML
+- CSS (Bootstrap, Sass)
+- JavaScript (React)
+- Node.js
+- Linux (Bash)
+- SQL
+- Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### my contacts
+- phone: +375293315887
+- [facebook](https://www.facebook.com/max.hasanau.3/)
+- mail: maxlinus1408@gmail.com
+- telegram: https://t.me/MaxRich_999
+ 
+ 
