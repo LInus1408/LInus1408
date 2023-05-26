@@ -1,6 +1,5 @@
 ## 👋 Hi! I'm glad to see you here.
-#### Welcome to my page!
-I'm Max, and I'm a Web Developer. 🤠
+#### Welcome to my page! 🤠
 
 ### Skills 📚
 - HTML ![imgonline-com-ua-Resize-ClhbYzkScJ](https://github.com/LInus1408/LInus1408/assets/60276227/d1c3d5b0-5874-49cc-9ba4-3e7c9aa02524)
